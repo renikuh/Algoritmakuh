@@ -1,0 +1,2 @@
+# Algoritmakuh
+tugas algoritma
